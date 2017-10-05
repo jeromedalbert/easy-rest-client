@@ -1,0 +1,2 @@
+inherit_from:
+  - https://raw.githubusercontent.com/jeromedalbert/linting-rules/master/rules/.rubocop.yml
